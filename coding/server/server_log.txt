@@ -1,0 +1,18 @@
+2025-03-29 23:49:19,480 - code_server_v2 - DEBUG - Server will provide access to files in: ./output/
+2025-03-29 23:49:19,481 - mcp.server.lowlevel.server - DEBUG - Initializing server 'folder-explorer'
+2025-03-29 23:49:19,481 - mcp.server.lowlevel.server - DEBUG - Registering handler for ListResourcesRequest
+2025-03-29 23:49:19,481 - mcp.server.lowlevel.server - DEBUG - Registering handler for ReadResourceRequest
+2025-03-29 23:49:19,481 - mcp.server.lowlevel.server - DEBUG - Registering handler for ListToolsRequest
+2025-03-29 23:49:19,481 - mcp.server.lowlevel.server - DEBUG - Registering handler for CallToolRequest
+2025-03-29 23:49:19,481 - mcp.server.lowlevel.server - DEBUG - Registering handler for PromptListRequest
+2025-03-29 23:49:19,481 - mcp.server.lowlevel.server - DEBUG - Registering handler for GetPromptRequest
+2025-03-29 23:49:19,481 - asyncio - DEBUG - Using selector: EpollSelector
+2025-03-29 23:49:19,481 - mcp.server.sse - DEBUG - SseServerTransport initialized with endpoint: /messages/
+INFO:     Started server process [383217]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [383217]
