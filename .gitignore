@@ -1,0 +1,34 @@
+# Python bytecode files
+*.py[cod]
+*$py.class
+__pycache__/
+
+# Python distribution / packaging
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+bin/
+var/
+sdist/
+develop-eggs/
+.installed.cfg
+lib/
+lib64/
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.env
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
